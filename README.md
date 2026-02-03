@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/karankumar12345/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/karankumar12345/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/karankumar12345/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0922-sort-array-by-parity-ii](https://github.com/karankumar12345/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1929-concatenation-of-array](https://github.com/karankumar12345/DSA/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/karankumar12345/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karankumar12345/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/karankumar12345/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0922-sort-array-by-parity-ii](https://github.com/karankumar12345/DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## String
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/karankumar12345/DSA/tree/master/0075-sort-colors) |
+| [0922-sort-array-by-parity-ii](https://github.com/karankumar12345/DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
