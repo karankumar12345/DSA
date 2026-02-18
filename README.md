@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/karankumar12345/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/karankumar12345/DSA/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/karankumar12345/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/karankumar12345/DSA/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/karankumar12345/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/karankumar12345/DSA/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/karankumar12345/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/karankumar12345/DSA/tree/master/0189-rotate-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/karankumar12345/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karankumar12345/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
