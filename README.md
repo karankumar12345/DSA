@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/karankumar12345/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/karankumar12345/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/karankumar12345/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0746-min-cost-climbing-stairs](https://github.com/karankumar12345/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0922-sort-array-by-parity-ii](https://github.com/karankumar12345/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1929-concatenation-of-array](https://github.com/karankumar12345/DSA/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karankumar12345/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/karankumar12345/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/karankumar12345/DSA/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/karankumar12345/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/karankumar12345/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
