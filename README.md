@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karankumar12345/DSA/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/karankumar12345/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/karankumar12345/DSA/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -132,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/karankumar12345/DSA/tree/master/0190-reverse-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/karankumar12345/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/karankumar12345/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
