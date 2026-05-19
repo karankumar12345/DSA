@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/karankumar12345/DSA/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/karankumar12345/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/karankumar12345/DSA/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/karankumar12345/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karankumar12345/DSA/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/karankumar12345/DSA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -137,8 +139,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/karankumar12345/DSA/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/karankumar12345/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/karankumar12345/DSA/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/karankumar12345/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
