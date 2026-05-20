@@ -19,12 +19,29 @@ public:
         if (dp[i] != -1) {
             return dp[i];
         }
-        int take = (i * freq[i]) + TopDown(freq, i - 2,dp);
-        int skip = TopDown(freq, i - 1,dp);
-        dp[i]= max(take, skip);
+        int take = (i * freq[i]) + TopDown(freq, i - 2, dp);
+        int skip = TopDown(freq, i - 1, dp);
+        dp[i] = max(take, skip);
         return dp[i];
     }
 
+  int BottomUp(vector<int>& freq, int maxVal) {
+
+        vector<int> dp(maxVal + 1, 0);
+
+        dp[0] = 0;
+        dp[1] = freq[1] * 1;
+
+        for(int i = 2; i <= maxVal; i++) {
+
+            int take = (i * freq[i]) + dp[i - 2];
+            int skip = dp[i - 1];
+
+            dp[i] = max(take, skip);
+        }
+
+        return dp[maxVal];
+    }
     int deleteAndEarn(vector<int>& nums) {
 
         int max_value = *max_element(nums.begin(), nums.end());
@@ -37,8 +54,10 @@ public:
 
         // return Recu(freq, max_value);
 
-        vector<int> dp(max_value + 1, -1);
+        // vector<int> dp(max_value + 1, -1);
 
-        return TopDown(freq, max_value, dp);
+        // return TopDown(freq, max_value, dp);
+
+        return BottomUp(freq, max_value);
     }
 };
