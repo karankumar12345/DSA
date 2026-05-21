@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/karankumar12345/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/karankumar12345/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/karankumar12345/DSA/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/karankumar12345/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karankumar12345/DSA/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/karankumar12345/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/karankumar12345/DSA/tree/master/0189-rotate-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/karankumar12345/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/karankumar12345/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karankumar12345/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/karankumar12345/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/karankumar12345/DSA/tree/master/0198-house-robber) |
@@ -166,5 +168,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/karankumar12345/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karankumar12345/DSA/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
