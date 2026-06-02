@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/karankumar12345/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/karankumar12345/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karankumar12345/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/karankumar12345/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/karankumar12345/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/karankumar12345/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/karankumar12345/DSA/tree/master/0198-house-robber) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karankumar12345/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/karankumar12345/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/karankumar12345/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/karankumar12345/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karankumar12345/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/karankumar12345/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/karankumar12345/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karankumar12345/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/karankumar12345/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Database
 |  |
 | ------- |
