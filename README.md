@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/karankumar12345/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/karankumar12345/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/karankumar12345/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/karankumar12345/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/karankumar12345/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1929-concatenation-of-array](https://github.com/karankumar12345/DSA/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karankumar12345/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2965-find-missing-and-repeated-values](https://github.com/karankumar12345/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/karankumar12345/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0740-delete-and-earn](https://github.com/karankumar12345/DSA/tree/master/0740-delete-and-earn) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/karankumar12345/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2965-find-missing-and-repeated-values](https://github.com/karankumar12345/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/karankumar12345/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karankumar12345/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/karankumar12345/DSA/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/karankumar12345/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Database
 |  |
 | ------- |
