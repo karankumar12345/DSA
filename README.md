@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/karankumar12345/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/karankumar12345/DSA/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/karankumar12345/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/karankumar12345/DSA/tree/master/0338-counting-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karankumar12345/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/karankumar12345/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/karankumar12345/DSA/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/karankumar12345/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/karankumar12345/DSA/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/karankumar12345/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/karankumar12345/DSA/tree/master/0746-min-cost-climbing-stairs) |
