@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/karankumar12345/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/karankumar12345/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karankumar12345/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/karankumar12345/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/karankumar12345/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/karankumar12345/DSA/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/karankumar12345/DSA/tree/master/0217-contains-duplicate) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/karankumar12345/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/karankumar12345/DSA/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/karankumar12345/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
